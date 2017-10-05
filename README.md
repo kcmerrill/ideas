@@ -1,4 +1,4 @@
-![ideas](idea.jpg "ideas")
+![ideas](ideas.jpg "ideas")
 
 # Ideas
 
